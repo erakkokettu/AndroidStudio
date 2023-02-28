@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EkaHarjoitus</string>
+    <string name="button">Button</string>
+    <string name="message">Hello! This is a message for you!</string>
+</resources>

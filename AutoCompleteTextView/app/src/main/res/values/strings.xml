@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="message">Tämä on AutoCompleteTextView tehtävä.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="Valitse">Valitse aihe</string>
+    <string name="CSS">CSS</string>
+    <string name="JavaScript">JavaScript</string>
+    <string name="PHP">PHP</string>
+    <string name="React">React</string>
+    <string name="Lähetä">Lähetä</string>
+    <string name="Tyhjennä">Tyhjennä</string>
+</resources>

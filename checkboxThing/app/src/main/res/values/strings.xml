@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkboxThing</string>
+    <string name="hobbies">Valitse harrastuksesi:</string>
+    <string name="ratsastus">Ratsastus</string>
+    <string name="koodaus">koodaus</string>
+    <string name="laulu">Laulu</string>
+    <string name="lenkkeily">Lenkkeily</string>
+    <string name="submit">submit</string>
+</resources>
